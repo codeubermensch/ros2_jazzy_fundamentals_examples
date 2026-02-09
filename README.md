@@ -4,7 +4,7 @@ This package contains examples demonstarting fundamental ROS2 concepts
 
 ## Description
 
-This package includes minimalist ROS 2 code to demonstrated important ROS2 concepts and patterns
+This package includes minimalist ROS 2 code to demonstrate important ROS2 concepts and patterns
 - Following ROS 2 Python style guidelines
 
 ## Prerequisites
